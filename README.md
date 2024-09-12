@@ -1,7 +1,7 @@
-## Hi, I'm Wilfried 👋
+## Hi, I'm Wilfried 👋🏾
 
 ### 💫 About Me:
-👨‍💻 Full-stack Developer specialized in React and Next.js<br><br>🚀 Creator of optimal web solutions tailored to client needs<br><br>🌱 Constantly evolving, always ready to take on new challenges<br><br>💡 I share my knowledge and experiences in web development<br><br>🤝 Open to collaborations on innovative web projects<br><br>🎨 Passionate about creating performant and aesthetic user interfaces<br><br>📚 Always eager to learn about the latest tech trends
+🧑🏾‍💻 Full-stack Developer specialized in React and Next.js<br><br>🚀 Creator of optimal web solutions tailored to client needs<br><br>🌱 Constantly evolving, always ready to take on new challenges<br><br>💡 I share my knowledge and experiences in web development<br><br>🤝 Open to collaborations on innovative web projects<br><br>🎨 Passionate about creating performant and aesthetic user interfaces<br><br>📚 Always eager to learn about the latest tech trends
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wilfriedprombo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wilxcode) 
